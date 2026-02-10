@@ -25,3 +25,5 @@ FUTURE IMPROVEMENTS
 - Use lists or dictionaries to store questions and answers
 
 NOTES
+
+I am using a website (https://www.codedex.io/home) to teach myself the Python language. This program was built from a provided prompt, but the code is entirely my own.
